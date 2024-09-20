@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sableoun.github.io/sitemap.html.gz
+Sitemap: https://sableoun.github.io/app/sitemap.html.gz
+Sitemap: https://sableoun.github.io/assets/sitemap.html.gz
+Sitemap: https://sableoun.github.io/css/sitemap.html.gz
+Sitemap: https://sableoun.github.io/data/sitemap.html.gz
+Sitemap: https://sableoun.github.io/includes/sitemap.html.gz
+Sitemap: https://sableoun.github.io/item/sitemap.html.gz
+Sitemap: https://sableoun.github.io/src/sitemap.html.gz
